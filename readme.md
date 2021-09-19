@@ -2,7 +2,7 @@
 
 Projeto criado para o canal no youtube para receber via pix via mercadopago:
 
-[![img_tag](https://blog.lojaintegrada.com.br/wp-content/uploads/2020/11/thumb-mercadopago-BF-LI.png)](https://www.youtube.com/watch?v=qJibfYeOP_M&ab_channel=ThiagoSales)
+[![IMAGE ALT TEXT](https://blog.lojaintegrada.com.br/wp-content/uploads/2020/11/thumb-mercadopago-BF-LI.png)](https://www.youtube.com/watch?v=qJibfYeOP_M&ab_channel=ThiagoSales "[DEV - PHP] - Recebendo via PIX - MERCADO PAGO SDK")
 
 
 ## Como baixar
